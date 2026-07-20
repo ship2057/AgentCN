@@ -1,0 +1,6 @@
+QMainWindow { background-color: #1e1e1e; }
+QTreeWidget { background-color: #252526; color: #d4d4d4; }
+QLineEdit { background-color: #3c3c3c; color: #d4d4d4; border: 1px solid #555; padding: 4px; }
+QPushButton { background-color: #0e639c; color: white; padding: 6px 12px; border: none; }
+QPushButton:hover { background-color: #1177bb; }
+QLabel { color: #d4d4d4; }
